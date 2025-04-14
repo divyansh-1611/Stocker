@@ -1,13 +1,9 @@
 numpy
 pandas
 datetime
-scikit-learn  # replaces sklearn
+scikit-learn
 statsmodels==0.14.4
 patsy==1.0.1
 pmdarima
 streamlit
 yfinance
-# sqlite3 is part of Python, no need to include
-# matplotlib  # uncomment if needed
-# warnings  # also part of Python
-sktime==0.4.1
